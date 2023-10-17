@@ -1,0 +1,94 @@
+.container{
+    width: 1500px;
+    padding: 0px;
+}
+
+.banner{
+    width: 1500px;
+    margin-top: 5px
+}
+
+body, td, th {
+    font-family: Tahoma;
+}
+
+TD {
+    font-size: 11px;
+    color: #666;
+    font-family: Tahoma,Arial,Helvetica,sans-serif;
+}
+
+.readmore{
+    padding-right: 130px;
+}
+
+.table{
+    padding-left: 130px;
+    padding-right: 130px;
+    width: 1270px;
+    height: 400px;
+    
+}
+
+.tableco{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 18px;
+  width: 200px;
+  font-size: 20px;
+  display: block;
+  padding: 4px;
+  line-height: 20px;
+  background-color: #F6CF74;
+  border: 1px solid #ddd;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.055);
+  -moz-box-shadow: 0 1px 10px rgba(0,0,0,0.055);
+  box-shadow: 0 6px 6px rgba(0,0,0,0.055);
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+  font-family: Verdana,Arial,sans-serif;
+}
+
+.tr{
+    margin: 5px;
+    width: 200px;
+    height: 310px;
+}
+
+.img{
+    width: 190px;
+    height: 60px;
+    margin: 2px;
+}
+
+.popup{
+    position: relative;
+    bottom: 70%;
+    left: 10px;
+    float: left;
+    border: 1px solid #EF5F00;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background-color: #fff;
+    padding: 5px 5px 5px 5px;
+    z-index: 99;
+    -webkit-box-shadow: 0px 0px 5px 5px #B8B8B8;
+    box-shadow: 0px 0px 2px 2px #ccc;
+    float: right;
+    height: 300px;
+    width: 300px;
+    margin-right: 10px;
+    float: right;
+    margin-right: 20px;
+}
+.img1{
+    height: 290px;
+    width: 300px;
+}
